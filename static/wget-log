@@ -1,0 +1,20 @@
+--2020-08-09 16:47:25--  https://publishers.disqus.com/engage?utm_source=startbootstrap
+Resolving publishers.disqus.com (publishers.disqus.com)... 104.17.132.180, 104.17.133.180, 104.17.134.180, ...
+Connecting to publishers.disqus.com (publishers.disqus.com)|104.17.132.180|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://disqus.com/features/?utm_source=startbootstrap [following]
+--2020-08-09 16:47:26--  https://disqus.com/features/?utm_source=startbootstrap
+Resolving disqus.com (disqus.com)... 151.101.64.134, 151.101.0.134, 151.101.128.134, ...
+Connecting to disqus.com (disqus.com)|151.101.64.134|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: https://disqus.com/features/engage/ [following]
+--2020-08-09 16:47:26--  https://disqus.com/features/engage/
+Reusing existing connection to disqus.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4118 (4.0K) [text/html]
+Saving to: ‘engage?utm_source=startbootstrap’
+
+      engag   0%       0  --.-KB/s               engage?utm_ 100%   4.02K  --.-KB/s    in 0s      
+
+2020-08-09 16:47:26 (20.9 MB/s) - ‘engage?utm_source=startbootstrap’ saved [4118/4118]
+
